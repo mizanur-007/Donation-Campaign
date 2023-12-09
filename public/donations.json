@@ -1,0 +1,136 @@
+[
+    {
+      "id": 1,
+      "picture": "https://i.ibb.co/Jy0jMnD/Health.png",
+      "title": "Healthcare for All",
+      "category": "Health",
+      "color_category_bg": "#0052ff33",
+      "color_card_bg": "#0052ff26",
+      "color_text_button": "#0052FF",
+      "description": "Healthcare for All is a visionary initiative dedicated to ensuring universal access to quality healthcare services. Committed to eradicating health disparities, this movement advocates for equitable healthcare coverage, regardless of socioeconomic status, ethnicity, or geography. By promoting affordable and inclusive healthcare solutions, Healthcare for All strives to create a healthier.",
+      "price": 500
+    },
+    {
+      "id": 2,
+      "picture": "https://i.ibb.co/r5f4P2h/Education.png",
+      "title": "Knowledge for All",
+      "category": "Education",
+      "color_category_bg": "#ff444a33",
+      "color_card_bg": "#ff444a26",
+      "color_text_button": "#FF444A",
+      "description": "Knowledge for All is about democratizing knowledge through free educational workshops and webinars. We believe that learning should be a lifelong journey accessible to all. Join us in expanding horizons, acquiring new skills, and fostering personal and professional growth. Together, we can build a more educated and enlightened society.",
+      "price": 250
+    },
+    {
+      "id": 3,
+      "picture": "https://i.ibb.co/9pzHPDj/Clothing.png",
+      "title": "Clothe a Soul: Donate",
+      "category": "Clothing",
+      "color_category_bg": "#79c23f33",
+      "color_card_bg": "#79c23f26",
+      "color_text_button": "#79C23F",
+      "description": "Embrace the power of giving with Clothe a Soul. Your clothing donations can change lives by providing warmth, dignity, and comfort to those in need. Whether it's gently worn clothes or new garments, your contribution makes a difference. Join us in our mission to ensure that everyone has access to basic clothing essentials. Together, we can transform lives, one garment at a time, and help individuals take confident steps towards a brighter future.",
+      "price": 370
+    },
+    {
+      "id": 4,
+      "picture": "https://i.ibb.co/2v4Gbsh/Food.png",
+      "title": " Fighting Hunger Together",
+      "category": "Food",
+      "color_category_bg": "#f8714733",
+      "color_card_bg": "#f8714726",
+      "color_text_button": "#F87147",
+      "description": "We believe in the power of unity, and 'Together for Good' embodies that spirit. Join our mission to combat hunger by donating food, one meal at a time. Every contribution, no matter how small, helps alleviate the burden of hunger on families and individuals in our community. Together, we can ensure that no one has to endure an empty stomach. Let's unite for a common cause and make a positive change in the lives of those who need it most.",
+      "price": 600
+    },
+    {
+      "id": 5,
+      "picture": "https://i.ibb.co/BTzcrWS/rsz-first-aid-kit.jpg",
+      "title": "Community Wellness Day",
+      "category": "Health",
+      "color_category_bg": "#0052ff33",
+      "color_card_bg": "#0052ff26",
+      "color_text_button": "#0052FF",
+      "description": "Community Wellness Day is a day of unity and well-being. Join us in providing free medical services, educational workshops, and resources to empower individuals to make healthier choices. We believe that a healthier community benefits everyone, and by coming together, we can make a lasting impact on the well-being of our neighbors.",
+      "price": 200
+    },
+    {
+      "id": 6,
+      "picture": "https://i.ibb.co/YD1tD26/impressed-young-female-teacher-sits-table-with-school-tools-raising-pen-classroom.jpg",
+      "title": "Empower Minds",
+      "category": "Education",
+      "color_category_bg": "#ff444a33",
+      "color_card_bg": "#ff444a26",
+      "color_text_button": "#FF444A",
+      "description": "Our mission is to empower minds and break down barriers to education. With Empower Minds, we offer free educational resources, courses, and support to learners of all ages. Education should be a right, not a privilege, and we are committed to making it accessible to everyone. Join us in our endeavor to unlock the potential of minds and create a brighter, more inclusive future.",
+      "price": 280
+    },
+    {
+      "id": 7,
+      "picture": "https://i.ibb.co/p2Rx4Dh/people-taking-community-action.jpg",
+      "title": "Share Your Wardrobe",
+      "category": "Clothing",
+      "color_category_bg": "#79c23f33",
+      "color_card_bg": "#79c23f26",
+      "color_text_button": "#79C23F",
+      "description": "Threads of Compassion is a heartfelt invitation to share your gently used clothing and spread love to those less fortunate. Your wardrobe can be a source of warmth and confidence for someone in need. By donating, you are not just giving clothes; you are giving hope and a sense of belonging. Join us in making a positive impact on our community, ensuring that no one has to go without essential clothing items. Let's come together to weave a tapestry of compassion and care.",
+      "price": 180
+    },
+    {
+      "id": 8,
+      "picture": "https://i.ibb.co/jG9Ntty/medium-shot-volunteers-with-food-donations.jpg",
+      "title": "Donate Food, Feed Hope",
+      "category": "Food",
+      "color_category_bg": "#f8714733",
+      "color_card_bg": "#f8714726",
+      "color_text_button": "#F87147",
+      "description": "'Nourish the Needy' is a heartfelt call to action! Your food donations can make a world of difference to those in need. By sharing your surplus food, you're not just providing sustenance; you're feeding hope and building a brighter future for individuals facing hunger. Together, we can create a community where everyone has access to nutritious meals and renewed hope. Join us in this noble mission, and let's make a lasting impact together.",
+      "price": 205
+    },
+    {
+      "id": 9,
+      "picture": "https://i.ibb.co/dDRJVKT/rsz-girlfriend-treating-boyfriend-s-injured-leg.jpg",
+      "title": "Free Medical Clinic",
+      "category": "Health",
+      "color_category_bg": "#0052ff33",
+      "color_card_bg": "#0052ff26",
+      "color_text_button": "#0052FF",
+      "description": "Our Free Medical Clinic is dedicated to providing compassionate healthcare services to individuals and families regardless of their financial circumstances. We believe that everyone deserves access to quality medical care. Join us in our mission to create a healthier and more equitable community by offering free medical services, consultations, and treatments. Together, we can ensure that no one goes without essential healthcare.",
+      "price": 710
+    },
+    {
+      "id": 10,
+      "picture": "https://i.ibb.co/XCtdMTk/rsz-1geography-lesson-school.jpg",
+      "title": "Educate to Elevate",
+      "category": "Education",
+      "color_category_bg": "#ff444a33",
+      "color_card_bg": "#ff444a26",
+      "color_text_button": "#FF444A",
+      "description": "Educate to Elevate is dedicated to helping students excel academically by offering free tutoring and homework assistance. We believe that every student deserves a chance to thrive in their studies. Join us in supporting young learners as they reach for their educational goals. Together, we can uplift the next generation and build a brighter future.",
+      "price": 255
+    },
+    {
+      "id": 11,
+      "picture": "https://i.ibb.co/0JBfW4C/volunteer-selecting-organizing-clothes-donations-charity.jpg",
+      "title": "Empower Cloths Donation",
+      "category": "Clothing",
+      "color_category_bg": "#79c23f33",
+      "color_card_bg": "#79c23f26",
+      "color_text_button": "#79C23F",
+      "description": "Wardrobe of Change is a call to empower through clothing donations. Your gently used or new clothing items can empower individuals to face the world with confidence. Your contribution is more than just fabric; it's an opportunity for someone to build self-esteem and make strides towards a better life. Join us in our mission to ensure that everyone has access to a diverse wardrobe and the tools to embrace new opportunities. Together, we can create a wardrobe of change and transform lives.",
+      "price": 220
+    },
+    {
+      "id": 12,
+      "picture": "https://i.ibb.co/4K2Zngy/top-view-fresh-canned-food-donation.jpg",
+      "title": "Share the Harvest",
+      "category": "Food",
+      "color_category_bg": "#f8714733",
+      "color_card_bg": "#f8714726",
+      "color_text_button": "#F87147",
+      "description": "Join us in the spirit of giving and 'Share the Harvest'! Help us make a difference in the lives of those less fortunate by contributing to our food donation drive. Your generous donations will provide essential nourishment to individuals and families facing hunger. Together, we can create a world where no one goes to bed hungry. Join hands with us and be a part of this meaningful journey towards a hunger-free community.",
+      "price": 240
+    }
+    
+  ]
+  
