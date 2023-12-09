@@ -1,3 +1,5 @@
+Technologies Used: ReactJS, Tailwind, Material Ui, React Router, React Router
+
 # Project Features
 
 1. Search by Category: The project contains a input field and a search button where a user can search donations organizations by category like,
